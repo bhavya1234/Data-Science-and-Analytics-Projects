@@ -1,5 +1,7 @@
 # Data-Science-and-Analytics-Projects
+
 TCS iON RIO-125: Classification Model - Build a Model that Classifies the Side Effects of a Drug
+
 In this study, I explored various classification algorithms to predict drug side effects based on the provided dataset, evaluating each based on classification accuracy. Extreme Gradient Boosting (XGBoost) stood out, achieving the highest accuracy of 59.03%, showcasing superior predictive capabilities.
 
 While XGBoost performed exceptionally, other models like Linear SVM, Radial SVM, Fine-tuned Random Forest, and Gradient Boosting also displayed promising accuracies ranging from approximately 54.19% to 58.39%, indicating potential for optimization and refinement.
